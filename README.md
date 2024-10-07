@@ -2,6 +2,9 @@
 This repo provides an overview of all the projects i've done to validate the common core.
 
 At that time, I wasn't focused on creating a README to explain the project's purpose because I was eager to learn as quickly as possible. In my [specialty repository](https://github.com/MrMobbi), I've begun to explain the project's details and add comments to the code whenever possible.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MrMobbi/42-common_core/refs/heads/main/ressources/common_core.png" alt="Logo" style="border-radius: 50%; width: 800px; height: 800px;" > 
+</p>
 
 ## 🔵 Beginning Circle 
 | Projet | Techno | Goal | Repo |Status|
