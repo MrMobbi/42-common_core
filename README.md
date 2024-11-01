@@ -48,7 +48,7 @@ At that time, I wasn't focused on creating a README to explain the project's pur
 ## 🔵 Final Circle
 | Projet | Techno | Goal | Repo |Status|
 |:---|:---|:---|:---:|:---:|
-| **Ft_trancendance** | <img src="https://tse3.mm.bing.net/th?id=OIP.T8gtXVwOgIygp25jK16IywHaHZ&pid=Api" alt="Logo" width="40" /> <img src="https://www.pinclipart.com/picdir/middle/534-5345877_python-logo-clipart.png" alt="Logo" width="40" /> <img src="https://www.britefish.net/wp-content/uploads/2019/06/logo-javascript-2.png" alt="Logo" width="40" /> | Developed a real-time Pong game using native JavaScript for the frontend and Python Django as the backend, featuring data-bases management. | [🔗](https://github.com/MrMobbi/ft_transcendence) | ![110/100](https://img.shields.io/badge/Score-110%2F100-brightgreen) |
+| **Ft_trancendance** | <img src="https://tse3.mm.bing.net/th?id=OIP.T8gtXVwOgIygp25jK16IywHaHZ&pid=Api" alt="Docker" width="40" /> <img src="https://www.pinclipart.com/picdir/middle/534-5345877_python-logo-clipart.png" alt="Python" width="40" /> <img src="https://www.britefish.net/wp-content/uploads/2019/06/logo-javascript-2.png" alt="JS" width="40" /> | Developed a real-time Pong game using native JavaScript for the frontend and Python Django as the backend, featuring data-bases management. | [🔗](https://github.com/MrMobbi/ft_transcendence) | ![110/100](https://img.shields.io/badge/Score-110%2F100-brightgreen) |
 
 
 
